@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzaS.maurodesouzaS&"  />
-</div>
-
-###
-
 <p align="left">Welcome to my GitHub page. I'm Esteban Velez, Jr. Information Security and Support Engineer <br><br>- 🔭 I’m working as a Technical Support Engineer for Cybersecurity company ThreatLocker®<br>- 📚 I'm currently learning Web Development and Cloud Engineering.</p>
 
 <div><img src="https://github.com/AS4X/AS4X/blob/main/hrline.gif"></div>
