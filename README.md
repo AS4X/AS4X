@@ -14,9 +14,6 @@
 ###
 
 <h2 align="left"><img src="https://github.com/AS4X/AS4X/blob/main/skull.gif" height="40" width="auto"> Language and tools</h2>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
