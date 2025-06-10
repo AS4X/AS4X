@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Esteban Velez, <br><br>- 🔭 I’m working as a Technical Support Engineer for Cybersecurity company ThreatLocker®<br>- 📚 I'm currently learning Web Development and Cloud Engineering.</p>
+<p align="left">Welcome to my GitHub page. I'm Esteban Velez, Jr. Information Security and Support Engineer <br><br>- 🔭 I’m working as a Technical Support Engineer for Cybersecurity company ThreatLocker®<br>- 📚 I'm currently learning Web Development and Cloud Engineering.</p>
 
 ###
 
@@ -32,4 +32,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AS4X&theme=tokyonight)
