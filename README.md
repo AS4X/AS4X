@@ -32,6 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-<img src="https://github.com/AS4X/AS4X/blob/main/skull.gif" heigth="50px" width="auto"><h3 align="left"> Portfolio</h3>
+<img src="https://github.com/AS4X/AS4X/blob/main/skull.gif" heigth="50" width="auto"><h3 align="left"> Portfolio</h3>
 
 
