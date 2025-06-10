@@ -37,7 +37,7 @@
 <div><img src="https://github.com/AS4X/AS4X/blob/main/hrline.gif"></div>
 
 <div align="left">
-<h2 align="left"><img src="https://github.com/AS4X/AS4X/blob/main/skull.gif" height="50" width="auto">Portfolio</h2>
+<h2 align="left" margin-right="5"><img src="https://github.com/AS4X/AS4X/blob/main/skull.gif" height="50" width="auto">Portfolio</h2>
 </div>
 
 <div><img src="https://github.com/AS4X/AS4X/blob/main/hrline.gif"></div>
