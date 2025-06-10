@@ -5,7 +5,7 @@
 ###
 
 <p align="left">Welcome to my GitHub page. I'm Esteban Velez, Jr. Information Security and Support Engineer <br><br>
-  ● I’m working as a Technical Support Engineer for Cybersecurity company ThreatLocker®
+  ● I’m working as a Jr. Technical Support Engineer for Cybersecurity company ThreatLocker®
   <br>
   ● I'm currently learning Web Development and Cloud Engineering.</p>
 
