@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -37,7 +37,7 @@
 <div><img src="https://github.com/AS4X/AS4X/blob/main/hrline.gif"></div>
 
 <div align="left">
-<h3 align="left"><img src="https://github.com/AS4X/AS4X/blob/main/skull.gif" height="50" width="auto">Portfolio</h3>
+<h2 align="left"><img src="https://github.com/AS4X/AS4X/blob/main/skull.gif" height="50" width="auto">Portfolio</h2>
 </div>
 
 <div><img src="https://github.com/AS4X/AS4X/blob/main/hrline.gif"></div>
