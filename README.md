@@ -4,7 +4,10 @@
 
 ###
 
-<p align="left">Welcome to my GitHub page. I'm Esteban Velez, Jr. Information Security and Support Engineer <br><br>- 🔭 I’m working as a Technical Support Engineer for Cybersecurity company ThreatLocker®<br>- 📚 I'm currently learning Web Development and Cloud Engineering.</p>
+<p align="left">Welcome to my GitHub page. I'm Esteban Velez, Jr. Information Security and Support Engineer <br><br>
+  - <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXpwOWxiOHloaXM0MnBjOXRhbWd1eXk5bHF5ZnBxMnk3OHl4NHc4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5T0kxKdNjAktanvPqB/giphy.gif" height="40" width="auto"> I’m working as a Technical Support Engineer for Cybersecurity company ThreatLocker®
+  <br>
+  - 📚 I'm currently learning Web Development and Cloud Engineering.</p>
 
 <div><img src="https://github.com/AS4X/AS4X/blob/main/hrline.gif"></div>
 
