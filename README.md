@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJmbXlwMHc5ZXF0M251N282ajFnMm1zNGJxMGR0eTBibnRmZDQwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WxGFY3EbZsMgbOj4Zv/giphy.gif"  />
+  <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJmbXlwMHc5ZXF0M251N282ajFnMm1zNGJxMGR0eTBibnRmZDQwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WxGFY3EbZsMgbOj4Zv/giphy.gif"/>
 </div>
 
 ###
@@ -36,7 +36,9 @@
 
 <div><img src="https://github.com/AS4X/AS4X/blob/main/hrline.gif"></div>
 
+<div>
 <img src="https://github.com/AS4X/AS4X/blob/main/skull.gif" height="50" width="auto"><h3 align="left"> Portfolio</h3>
+</div>
 
 <div><img src="https://github.com/AS4X/AS4X/blob/main/hrline.gif"></div>
 
