@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left"><img src="https://github.com/AS4X/AS4X/blob/main/skull.gif" height="40" width="auto"> Language and tools</h2>
 
 ###
 
