@@ -35,7 +35,9 @@
 </div>
 
 <div id="1">
-  <p align="left"> ● frijol.me</p>
+  <p align="left"> ● Full stack engineering <br>
+  ● Cloud administration and deployment
+  </p>
     <a href="https://frijol.me">
       <img src="https://github.com/AS4X/AS4X/blob/main/frijol-logo.png" height="120" width="auto">
     </a>
