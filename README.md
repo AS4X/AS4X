@@ -34,8 +34,14 @@
 <h2 align="left"><img src="https://github.com/AS4X/AS4X/blob/main/skull.gif" height="40" width="auto"> Portfolio</h2>
 </div>
 
+<div id="1">
 <p align="left"> ● frijol.me</p>
+<img src="https://github.com/AS4X/AS4X/blob/main/frijol-logo.png" height="120" width="auto">
+</div>
 
 <div><img src="https://github.com/AS4X/AS4X/blob/main/hrline.gif"></div>
+
+
+
 
 
