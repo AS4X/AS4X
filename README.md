@@ -35,7 +35,7 @@
 </div>
 
 <div id="1">
-  <p align="left"> ● Full stack engineering <br>
+  <p align="left"> ● Developed in vanilla JS, CSS & HTML<br>
   ● Cloud administration and deployment
   </p>
     <a href="https://frijol.me">
