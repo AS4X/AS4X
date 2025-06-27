@@ -36,7 +36,7 @@
 
 <div id="1">
   <p align="left"> ● Developed in vanilla JS, CSS & HTML<br>
-  ● Cloud administration and deployment
+  ● Cloud administration and deployment through AWS
   </p>
     <a href="https://frijol.me">
       <img src="https://github.com/AS4X/AS4X/blob/main/frijol-logo.png" height="120" width="auto">
