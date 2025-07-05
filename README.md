@@ -37,7 +37,7 @@
   ● Cloud administration and deployment through AWS
   </p>
     <a href="https://frijol.me">
-      <img src="https://github.com/AS4X/AS4X/blob/main/frijol-logo.png" height="60" width="auto">
+      <img src="https://github.com/AS4X/AS4X/blob/main/frijol-logo.png" height="60" width="auto" style="max-height: 60px; width: auto;">
     </a>
   
 </div>
